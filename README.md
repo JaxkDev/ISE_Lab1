@@ -1,8 +1,4 @@
-# Lab 1 - Bug Report Classifier
+# Lab 1 [SOLUTION] - Bug Report Classifier
 
-### Requirements
-
-```
-- python 3.12.8
-
-```
+### Source
+https://github.com/ideas-labo/ise-lab-solution/blob/main/lab1/README.md
